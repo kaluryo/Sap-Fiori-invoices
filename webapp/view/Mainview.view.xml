@@ -1,0 +1,7 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="Perdomoc.invoices.controller.Mainview" displayBlock="true">
+    <Page id="page" title="Invoices List">
+        <content>
+            <Text xmlns="sap.m" text="Hello World" id="text2"/>
+        </content>
+    </Page>
+</mvc:View>
